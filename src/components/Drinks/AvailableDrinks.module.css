@@ -11,6 +11,16 @@
   padding: 0;
 }
 
+.drinksLoading {
+  text-align: center;
+  color: white;
+}
+
+.drinksError {
+  text-align: center;
+  color: red;
+}
+
 @keyframes drinks-appear {
   from {
     opacity: 0;
